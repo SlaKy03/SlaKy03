@@ -92,6 +92,17 @@
 <img src="https://streak-stats.demolab.com?user=SlaKy03&theme=radical&hide_border=true&border_radius=10" alt="GitHub streak"/>
 </div>
 
+## ☕ Support me · 応援
+
+<div align="center">
+
+If something I made saved you time, you can buy me a coffee — it helps me keep building 🌸
+
+<a href="https://ko-fi.com/slaky"><img src="https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF6AC1?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/></a>
+<a href="https://www.paypal.me/Vyacheslavbulayev"><img src="https://img.shields.io/badge/PayPal-Donate-C3A6FF?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+
+</div>
+
 ---
 
 ## 🇺🇦 Українська
